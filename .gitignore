@@ -24,3 +24,7 @@ Makefile
 # 기타
 *.swp
 *.swo
+
+# 제외할 패키지 목록
+/src/motion_capture_tracking
+/src/craztswarm2
