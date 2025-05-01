@@ -1,0 +1,26 @@
+# ROS2 colcon
+build/
+install/
+log/
+.colcon/
+
+# Python (if using)
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
+
+# JetBrains CUsor (CLion/CUsor)
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 기타
+*.swp
+*.swo
